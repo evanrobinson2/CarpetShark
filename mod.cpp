@@ -1,0 +1,13 @@
+name 		= "CarpetShark's Mod"; // Name of your mod
+author 		= "CarpetShark"; // Affects Arma 3 Launcher, when the mod are loaded as local
+logo 		= "files\csadminlogo.paa"; // Logo displayed in the main menu
+logoOver 	= "files\csadminlogo.paa"; // When the mouse is over, in the main menu
+tooltip 	= "CarpetShark";
+tooltipOwned= "Credit to CarpetShark"; // Tool tip displayed when the mouse is left over, in the main menu
+picture 	= "csadminlogo.paa"; // Picture displayed from the expansions menu. Optimal size is 2048x1024
+actionName 	= "Google";
+action 		= "https://www.google.com"; // Website URL, that can be accessed from the expansions menu
+overview 	= "Contains Admin Tools to make gameplay more fun."; // Supports structured text
+hideName 	= 0; // Hide the extension name
+hidePicture	= 0;	// Hide the extension menu
+logoSmall 		= "files\csadminlogo.paa"; // Display in creative lists, next to the entities added by the mod
